@@ -1,11 +1,12 @@
 import React from 'react'
 
 const Footer = () => {
-  // let footerStyle={
-  //   position:"relative",
-  //   top:"vh",
-  //   width:"100%"
-  // }
+  let footerStyle={
+    position:"relative",
+    top:"vh",
+    width:"100%"
+  }
+  //comment above class afterwards
   return (
 
 
